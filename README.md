@@ -11,8 +11,8 @@ This set of functions can be used to visualize the phase over time for arbitrary
 
 Start by executing the example code, e.g.
 ```matlab
-	des_example_1
-    
+	des_example_1    
 ```
+which should render the animation below.
 
-![Alt Text](animations/walkon_1.gif)
+![Example animation](animations/walkon_1.gif =600x600)
