@@ -15,4 +15,4 @@ Start by looking at the example code, e.g.
     
 ```
 
-![Alt Text](animations\walkon_1.gif)
+![Alt Text](\animations\walkon_1.gif)
