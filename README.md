@@ -15,4 +15,4 @@ Start by executing the example code, e.g.
 ```
 which should render the animation below.
 
-![Example animation](animations/walkon_1.gif =600x600)
+![Example animation](animations/walkon_1.gif)
