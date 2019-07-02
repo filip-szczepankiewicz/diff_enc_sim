@@ -1,6 +1,7 @@
 ## Diffusion Encoding Simulation (diff_enc_sim)
 
-Filip Szczepankiewicz  
+Filip Szczepankiewicz (fszczepankiewicz@bwh.harvard.edu)  
+
 Brigham and Women's Hospital, Boston, MA, USA  
 Harvard Medical School, Boston, Ma, USA  
 
@@ -11,5 +12,5 @@ This set of functions can be used to visualize the phase over time for arbitrary
 
 Start by executing the example code, e.g. `des_example_1` which should render the animation below. Note that the code does not include tools for making .gif animations, as this is a bit more involved. I may include this in the future if requested.
 
-### Example
+### Example animation
 ![Example animation](animations/walkon_1.gif)
