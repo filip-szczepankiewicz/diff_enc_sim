@@ -10,6 +10,10 @@ function h = des_plot_vectors(h, f, t, col, lw, ls)
 % lw = line width
 % ls = line style
 
+if nargin < 4
+    col = zeros(size(f));
+end
+
 if nargin < 5
     lw = 1;
 end
