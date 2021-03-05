@@ -1,9 +1,10 @@
 ## Diffusion Encoding Simulation (diff_enc_sim)
 
-Filip Szczepankiewicz (fszczepankiewicz@bwh.harvard.edu)  
+Filip Szczepankiewicz (filip.szczepankiewicz@med.lu.se)  
 
 Brigham and Women's Hospital, Boston, MA, USA  
 Harvard Medical School, Boston, Ma, USA  
+Lund University, Lund, Sweden  
 
 ### Scope
 This code provides a simple framework for visualizing and animating the effect of diffusion encoding on spin along a single direction in space. The code was prepared for the ISMRM 2019 diffusion MRI Educational session: [Diffusion & Microstructure: Fundamentals & Frontiers](https://www.ismrm.org/19/program_files/WE05.htm) for the lecture [Diffusion MRI Acquisition, Part I: From Propagator to Image](https://cds.ismrm.org/protected/19MPresentations/eduvids/11/710B/0845/) (login is required to access the lecture video).
