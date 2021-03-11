@@ -1,5 +1,5 @@
 function des_imgl2gif(img_list, o_file, loop_count, fps, delay_start, delay_end)
-% function des_imgl2gif(img_list, o_file, iters, fps, delay_start, delay_end)
+% function des_imgl2gif(img_list, o_file, loop_count, fps, delay_start, delay_end)
 
 if loop_count > 65535
     loop_count = 65535;
