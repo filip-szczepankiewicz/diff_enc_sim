@@ -11,7 +11,7 @@ This code provides a simple framework for visualizing and animating the effect o
 
 This set of functions can be used to visualize the phase over time for arbitrary field gradients for diffusing particles where the movement can be arbitrarily defined (e.g. based on a gaussian propagator). An assortment of .gif animations is available in the /animations/ folder.
 
-Start by executing the example code, e.g. `des_example_1` which should render the animation below. Note that the code does not include tools for making .gif animations, as this is a bit more involved. I may include this in the future if requested.
+Start by executing the example code, e.g. `des_example_1` which should render the animation below. Note that the code may not include all necessary tools for making .gif animations, as this is a bit more involved. I am working on enabling this.
 
 ### Example animation
 ![Example animation](animations/walkon_1.gif)
