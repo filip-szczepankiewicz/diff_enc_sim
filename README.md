@@ -18,7 +18,7 @@ The repository was slightly extended in preparation for the ISMRM 2022 diffusion
 
 Among other improvements, there is now code that creates gifs from images in a folder or cell structure. See the function `des_imgl2gif`. For best results, start from images in a folder, where the images are saved at a high resolution. You can do this by using custom image write scripts. For example `fix_save_figure` [from this GitHub repo](https://github.com/filip-szczepankiewicz/fix_matlab).
 
-The code now also includes animations that show the effects of varying the echo time, repetition time and inversion time. Moreover, there are animations that show the confounding effects caused by concomitant gradients and cross-terms with background gradients.
+The code now also includes animations that show the effects of varying the echo time, repetition time and inversion time. Moreover, there are animations that show the confounding effects caused by [concomitant gradients](https://doi.org/10.1002/mrm.27828) and [cross-terms](https://doi.org/10.1016/j.jmr.2021.106991) with background gradients.
 
 ### Example animation
 ![Example animation](animations/walkon_1.gif)
