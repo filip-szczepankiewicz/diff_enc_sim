@@ -24,7 +24,7 @@ The repository was slightly extended in preparation for the ISMRM 2022 diffusion
 
 
 ### Lecture materials
-You can download the lecture slides in pdf-format here: [Encoding Diffusion: Advanced gradient design and relaxation-weighting (ISMRM 2022)]().
+You can download the lecture slides in pdf-format here: [Encoding Diffusion: Advanced gradient design and relaxation-weighting (ISMRM 2022)](https://github.com/filip-szczepankiewicz/diff_enc_sim/blob/master/slides/ISMRM2022-E1771-Szczepankiewicz-Advanced%20diffusion%20and%20relaxation%20encoding.pdf).
 
 
 ### Example animation
